@@ -58,6 +58,3 @@ return(
 );
 }
 export default NavBar
-{/* <div className="hidden">
-        <a href="#"><GiHamburgerMenu/></a>
-    </div> */}
